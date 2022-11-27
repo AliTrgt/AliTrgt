@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Junior Frontend Developer I’m interested in writing code</h3>
+<h3 align="center">Junior Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alitrgt&label=Profile%20views&color=0e75b6&style=flat" alt="alitrgt" /> </p>
 
