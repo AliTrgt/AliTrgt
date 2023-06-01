@@ -1,5 +1,5 @@
 # 💫 About Me:
-·🌱 I’m currently learning JavaScript
+·🌱 I’m currently learning Java
 
 ·📫 How to reach me ali_trgt@outlook.com
 
