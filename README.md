@@ -8,16 +8,20 @@ I’m always excited to explore new technologies and concepts, and I’m committ
 
 # 💻 Tech Stack:
 **Programming Language:**
- Java,JavaScript
+**Java,JavaScript**
  
-**Framework and Tools:** 
-Spring Boot,Spring MVC,Spring Data JPA,Junit,Mockito,Hibernate
+**Framework and Libraries:** 
+**Spring Boot,Spring MVC,Spring Data JPA,Maven,Junit,Mockito,Hibernate**
 
 **Databases:** 
-MySQL,PostgresSQL,Redis
+**MySQL,PostgresSQL,Redis**
+
+**Version Control and Tools:**
+**Git,Postman,Swagger,Intelij Idea**
 
 **Container:** 
-Docker
+**Docker**
+
 
 
 
