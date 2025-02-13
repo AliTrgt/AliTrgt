@@ -11,7 +11,7 @@ I’m always excited to explore new technologies and concepts, and I’m committ
 **Java,JavaScript,TypeScript**
  
 **Framework and Libraries:** 
-**Spring Boot,Spring MVC,Angular,Junit,Mockito,Maven,Hibernate**
+**Spring Boot,Spring MVC,Angular,Bootstrap,Junit,Mockito,Maven,Hibernate**
 
 **Databases:** 
 **MySQL,PostgresSQL**
